@@ -1,0 +1,712 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>一 防火通则 - 建筑防火-地方标准·答疑汇编（600问）！ - 消防规范大全 - 中国建筑科学研究院建筑防火研究所--消防规范网！</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+    <link rel="stylesheet" href="/style/css/style.css?v=1.1" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="keywords" content="防火,通则,防火,通则," />
+    <meta name="description" content="文章正在整理上传中，预计三天左右完成，敬请期待！" />
+    <meta http-equiv="Cache-Control" content="no-transform " /> 
+	<meta name="applicable-device" content="pc">
+    <link rel="stylesheet" href="/style/css/poplogin.css">
+    <link rel="stylesheet" href="/public/css/addon.css?v=1.3"/>
+
+    <script src="/style/js/jquery.min.js"></script>
+    <script src="/static/js/common.js"></script>
+    <script src="/static/js/al.js"></script>
+
+    <script src="/style/js/layer.js"></script>
+    <script src="/style/js/layer.ext.js"></script>
+ <script type="text/javascript" src="/style/js/jquery.qrcode.min.js"></script> 
+ 
+    <style type="text/css">
+.layui-layer-photos .layui-layer-content {
+    height: auto !important;
+}
+      DIV.yellow {
+    BORDER-BOTTOM: #ccc 1px solid;
+    BORDER-LEFT: #ccc 1px solid;
+    PADDING-BOTTOM: 2px;
+    COLOR: #000;
+    BORDER-TOP: #ccc 1px solid;
+    BORDER-RIGHT: #ccc 1px solid;
+    TEXT-DECORATION: none;
+    background-color: #ffffcc;
+    width: 400px;
+    margin-left: 0px;
+    margin-top: 0px;
+    }
+
+DIV.yellow2 {
+    BORDER-BOTTOM: #ccc 1px solid;
+    BORDER-LEFT: #ccc 1px solid;
+    PADDING-BOTTOM: 2px;
+    COLOR: #000;
+    BORDER-TOP: #ccc 1px solid;
+    BORDER-RIGHT: #ccc 1px solid;
+    TEXT-DECORATION: none;
+    background-color: #ffffcc;
+    width: 400px;
+    margin-left: 300px;
+    margin-top: 50px;
+    }
+.active {background-color:#f8f8f8 !important;font-weight:bold}
+.active a{ color:#ff0000}
+.downs{text-align:center;padding:10px;}
+.downs p {margin:20px auto;font-size:16px;}
+.downs .baiduyun a{color:#fff; border: 1px solid #ff1e0a; margin:10px auto;line-height: 30px;background: #ff1e0a;border-radius: 20px;padding: 8px 20px;}
+.downs .saomiao {font-weight:bold; } 
+.context{clear:both}
+
+.round_button {
+	border: 0px solid;
+	text-decoration: none;
+	text-align: center;
+	line-height: 24px;
+	height: 24px;
+	margin: 8px 5px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	/* Old Firefox */
+	border-radius: 4px;
+	-webkit-transition: all 0.15s ease;
+	-moz-transition: all 0.15s ease;
+	-o-transition: all 0.15s ease;
+	-ms-transition: all 0.15s ease;
+	transition: all 0.15s ease;
+	background-color:#969696;
+	padding:2px 6px 2px 6px;
+}
+.popBox{ display:none;}
+.popMobile{
+	width:400px;
+	 
+	color: white;
+    font-size: 14px;
+    background-color: #4599e6;
+}
+.popMobile .popBox{
+	padding-top:30px;
+	overflow:hidden;display:block;    padding-bottom: 15px;
+}
+.popMobile .popBox .bTitle{  text-align:center; line-height:1.5}
+#qrcode{ text-align:center; width: 166px;
+    height: 158px;
+    margin: 15px auto;
+    background: #fff;
+    padding-top: 8px;
+    overflow: hidden;
+	}
+.bshare-custom { padding:30px 20px; display:none;}
+.b_con span.bgr{display: inline-block;
+font-style:normal;
+    font-size: inherit;
+    font-weight: normal;
+    background: #FF5151;}
+.addon_list_item .bianji {
+    margin-bottom: 0px;
+}
+.rcontent .rtitle {padding:0px;}
+.rcontent .rtitle h3 {
+	float: left;
+    width: 50%;
+    text-align: center;
+    font-weight: normal;
+    cursor: pointer;
+}
+.rcontent .rtitle h3.on{
+	background: #ff6600;
+    color: #fff;
+}
+.rcontent .rul ul {
+    display: none;
+}
+.rcontent .rul ul.show {
+    display: block;
+}
+</style>
+	
+    <script type="text/javascript">
+	document.write('<script type="text/javascript" src="/style/js/nav.js?t='+ new Date().getTime() +'"><\/script>');
+        if ("" != "") {
+            window.location.href = "";
+        }
+
+        var sUserAgent = navigator.userAgent.toLowerCase();
+        if (/ipad|iphone|midp|rv:1.2.3.4|ucweb|android|windows ce|mobile|windows mobile/.test(sUserAgent)) {           
+            var url = window.location.href;
+            url = url.replace('gf', 'gf/m');
+            window.location.href = url;
+        }
+
+     
+ 
+ 
+
+function popMobile(){
+	layer.open({
+	  type: 1,
+	  title: false,
+	  closeBtn: 1,
+	  shadeClose: true,
+	  skin: 'popMobile',
+	  content:  $(".popBox")
+	  });
+}
+ 
+jQuery(function(){
+	jQuery('#qrcode').qrcode({
+		render: "canvas",  
+		width: 150,
+		height: 150,
+		text: "/m/article-37107.htm"
+	});
+})
+ 
+function share(){
+	layer.open({
+	  type: 1,
+	  title: false,
+	  closeBtn: 1,
+	  shadeClose: true,
+	  skin: 'share',
+	  content:  $(".bshare-custom")
+	  });
+}
+function SearchAllwords() {
+    var keywords = document.getElementById("allwords").value;
+    //$.get("/token/" + Math.random().toString()+"/", function (result) {
+        window.location.href = "/search.htm?typeid=1304&keywords=" + encodeURIComponent(keywords);
+    //});
+}
+    </script>
+</head>
+<body onresize="setsearch_norm();">
+
+	
+    <div class="container">
+        <div class="top_new">
+    <div class="top_new_left" style=" background:url(/style/images/img/nav_02.jpg); font-size:12px; color:White; line-height:32px; text-indent:10px; text-align:left">中国建筑科学研究院建筑防火研究所--消防规范网</div>
+    <div class="top_new_right">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody>
+                <tr>
+                    <td align="center" width="20px" style="font-size:12px;" height="32"></td>
+                    <td align="left" style=" height:32px; line-height:32px;" id="userbox">
+                        <div class="fr"> </div>
+                        <div class="topc" id="userlogin" style="text-align:right;"></div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+        <div class="head-mid"> <img src="/style/images/nav_05.jpg"> </div>
+        <div class="nav_new">
+             
+        </div>
+        <div class="clear" style="clear: both; display: none;" id="page1clear"></div>
+        <div class="block"></div>
+    </div>
+    <div class="main" style="width: 1000px;margin: 10px auto; float:none;">
+        <div class="left" style="width:742px; float:right; ">
+
+            <!---liebiao--->
+            <div class="zjtj_list" style="width: 740px;">
+                <div class="zjtj_bar">
+                    <p class="zjtj_bar_p1 font14"><a id="list"><a href='/'>主页</a> > <a href='/' >规范</a> > <a  href="/list-1304.htm">建筑防火-地方标准·答疑汇编（600问）！</a> > </a>
+                    </p>
+
+                   
+                  
+                </div>
+                <div style="padding:4px 10px; margin:0 auto;">
+                    <p>
+                        <a class="round_button" style="color:#fff;display:inline; float:left;" href="list-1304.htm"> 目 录 </a> 
+                        <a class="round_button" style="color:#fff;width:50px; display:inline;float:left;" href="article-37106.htm">上一节</a> 
+                        <a class="round_button" style="color:#fff;width:50px; display:inline;float:left;" href="article-37108.htm">下一节</a> 
+                        <a class="round_button" style="color:#fff;width:50px; display:inline;float:left;" href="javascript:void(0);" onclick="displaySearch();"> 查 找 </a>
+                        <a class="round_button" style="color:#fff;width:50px; display:inline;float:left;" href="list-1304.htm" target="_blank"> 检 索 </a>
+
+                         
+
+						<a class="round_button" href='javascript:;' style="color:#fff; float:left;" onClick="popMobile();"> 手机阅读 </a>
+						<!--a class="round_button" href='javascript:;' style="color:#fff; float:left;width:50px;  " onClick="share();"> 分享 </a-->
+                        <a class="round_button" style="color:#fff;width:50px; display:inline; float:right;" href='./' target="_blank"> 总目录 </a>
+                        <a class="round_button" style="color:#fff;width:70px; display:inline; float:right;" href='javascript:void(0);' onclick="showsubmenutop('showfeedbacktop');"> 问题反馈 </a>
+                       
+                    </p>
+                   
+ 
+                    <div class="yellow2" id="showfeedbacktop" style="display:none; position:absolute;">
+                        <p style="text-align:right; padding:8px 8px 0px 0px;"><img src="/style/images/close.gif" border="0" width="40" height="40" onclick="showsubmenutop('showfeedbacktop');" style="cursor:hand;" /></p>
+                        <iframe frameborder="0" scrolling="no" src="" id="feedbacktop" width="380" height="420"></iframe>
+                    </div>
+
+					<table border="0"  id="search_page" cellspacing="0" cellpadding="0" style="width:100%;display:none;margin:70px 0 -30px 160px;">
+						<tr>
+							<td style="text-align:right; width:50%;"><input id="search" type="text" placeholder=" 搜索本页内容..." style="width:250px; height:30px;box-sizing:border-box; line-height:30px;border:1px solid #ddd;vertical-align: top;" /></td>
+							<td style="text-align:left;"><button onclick="searchContent();" style="width:60px;-webkit-appearance: none;margin-left:3px;height: 30px;border: none; outline: none;">搜索</button></td>
+						</tr>
+					</table>
+
+                    <div  style="margin:50px 0 20px 0;font-size:14px; line-height:30px;" id="keywords_info"> &nbsp;</div>
+
+                    <div style="margin-bottom:40px;">
+                        <h1 style="text-align:center; font-size:18px;letter-spacing: 2px;margin-bottom: 10px;margin-top: 30px;">一 防火通则</h1>
+                        <hr style="border: 1px solid #eeeeee" width="" />
+                    </div>
+                   
+
+                    <div class="b_con" style="line-height:25px;" id="b_con"><strong>★问题1：理解规范时如何看待&ldquo;法无禁止皆可为&rdquo;与&ldquo;法无授权即禁止&rdquo;?</strong><br />
+&nbsp; &nbsp; 提出本问题的原因：<br />
+&nbsp; &nbsp; 答案请关注&ldquo;张耀泽老师宣贯&rdquo;。<br />
+<br />
+<strong>★问题2：图示突破规范条文时，是否有条文同等法律效力？如<a href="http://gf.1190119.cn/article-27798.htm">《图示》5.5.8</a>?</strong><br />
+&nbsp; &nbsp; 提出本问题的原因：明确《规范》、《标准》、《图示》、《指南》等的效力和优先级<br />
+&nbsp; &nbsp; 答案请关注&ldquo;张耀泽老师宣贯&rdquo;。<br />
+&nbsp; &nbsp; 规范适用性（<a href="https://gf.1190119.com/article-27227.htm">《建规》1.0.2</a>）<br />
+<br />
+<strong>★问题3：&ldquo;等&rdquo;中是否补充&ldquo;汽车库&rdquo;、&ldquo;钢铁冶金企业&rdquo;；&ldquo;宜&rdquo;是否改为&ldquo;应&rdquo;？</strong><br />
+&nbsp; &nbsp; 提出本问题的原因：&ldquo;等&rdquo;字的解读。<br />
+&nbsp; &nbsp; 答案敬请期待后续版本完善。<br />
+&nbsp; &nbsp; 防火分隔（<a href="https://gf.1190119.com/article-27227.htm">《建规》1.0.4</a>）<br />
+<br />
+<strong>★问题4：明晰本条的应用规则；明确建筑和场所的区别；理解同一使用功能建筑内的这些特殊的局部功能的安全疏散、设备设施等，按整体设计还是按局部设计？比如：1）电商网店同附设仓储之间的防火分隔要求？2）学校生活楼中，一层为厨房、二层为餐厅、三层以上为宿舍。宿舍部分的楼梯是否需要与底部的餐厅分开？</strong><br />
+&nbsp; &nbsp; 提出本问题的原因：（《公津建字【2015】39号》：2.0h隔墙+乙级防火门）<br />
+&nbsp; &nbsp;&nbsp;<a href="https://gf.1190119.com/article-27227.htm">《建规》1.0.4</a>条文说明：当同一建筑内，可能会存在<u>多种用途的房间或场所</u>，如办公建筑内设置的会议室、餐厅、锅炉房等，<u>属于同一使用功能。</u><br />
+&nbsp; &nbsp; 1）<a href="https://gf.1190119.com/article-36795.htm">《浙江》3.4.12</a>：电商网店内附设临时仓储功能的，仓储部分与电子商务部分应采取耐火极限不低于2.0h的不燃烧体隔墙、乙级防火门进行防火分隔。<br />
+&nbsp; &nbsp; 2）<a href="https://gf.1190119.com/article-37096.htm">《江苏》1.3.3.2</a>：学校生活楼中，三层以上宿舍的疏散楼梯间应独立设置。二层餐厅的疏散楼梯不应与宿舍楼梯间兼用。<br />
+&nbsp; &nbsp; 规范适用性<a href="https://gf.1190119.com/article-27227.htm">《建规》（1.0.7）</a><br />
+<br />
+<strong>★问题5：<a href="https://gf.1190119.com/article-27227.htm">《建规》1.0.7</a>条、<a href="https://gf.1190119.com/article-4467.htm">《车火规》1.0.4</a>条中的&ldquo;除应符合本规范的规定外，尚应符合国家现行有关标准的规定&rdquo;，请问规范互参的范围及原则？ （比如汽车库只执行《车火规》）</strong><br />
+&nbsp; &nbsp; 提出本问题的原因：<br />
+&nbsp; &nbsp; 1、以汽车库为例，说明执行的关系。《车火规》是专业规范，《建规》是通用防火规范，按照专业规范优先的原则。设计与审查以《车火规》为主，而且，《车火规》与《建规》的要求抵触时，按《车火规》要求。汽车库消防电梯和防火卷帘等的设置《车火规》没有要求的，不要求按《建规》做。<br />
+&nbsp; &nbsp; 2、以洁净厂房为例，洁净厂房没有专门的设计防火规范，其中，《<a href="https://gf.1190119.com/list-555.htm">洁净厂房设计规范</a>》中有关消防的要求是具体的、专业的，《建规》对厂房的要求仍然是通用的基本的总体的，因此，洁净厂房的防火设计，首先应符合《洁净厂房设计规范》的防火安全要求，对其要求执行《建规》的部分，应符合《建规》要求。<br />
+&nbsp; &nbsp; 3、明哲保身的做法是，哪本规范要求严，执行哪本。<br />
+<br />
+<strong>★问题6：原消防建审部门传达的意见是&ldquo;改建扩建旧老建筑时可不按照&rdquo;宜&rdquo;的条款，新建建筑需要满足&ldquo;宜&rdquo;字相关条款&rdquo;。</strong><br />
+&nbsp; &nbsp; 提出本问题的原因：&ldquo;宜&rdquo;字的解读<br />
+&nbsp; &nbsp; 《乌鲁木齐》五.31：表示允许稍有选择，在条件许可时首先应这样做。<br />
+<br />
+<strong>★问题7：顿号造成错误解读</strong><br />
+&nbsp; &nbsp; 提出本问题的原因：表达有歧义<br />
+&nbsp; &nbsp; 答案敬请期待后续版本完善。<br />
+<br />
+<strong>★问题8：<a href="https://gf.1190119.com/article-27251.htm">《建规》5.5.17.4</a>，观众厅、&hellip;&hellip;、营业厅等，&ldquo;等&rdquo;字表示未穷举，其中是否包括：图书馆的大空间阅览室？高校实验楼的大空间型实验室？</strong><br />
+&nbsp; &nbsp; 提出本问题的原因：&ldquo;等&rdquo;字的解读<br />
+&nbsp; &nbsp; 《指南》P155：建筑的分类，应综合考虑建筑的高度、实际用途、发生火灾后可能产生的后果、扑救难易程度等，分类中的建筑称谓只表示其使用功能或用途，<u>实际设计中不应拘泥于建筑的称呼</u>，而应考虑上述主要因素.在表5.1.1中未明确的建筑，其分类可以根据上述原则釆用类比方法比照表5.1.1中的相应规定项来确定。<br />
+&nbsp; &nbsp; 《指南》P210：歌舞娱乐放映游艺场所的范围<u>不应受上述场所称呼的限制</u>，而应根据具体场所的实际用途是否与规范规定的用途一致来确定其防火设计要求。<br />
+&nbsp; &nbsp; 《福建》1.11：按照&ldquo;等内不等外&rdquo;的原则掌握，即仅指具体提到的建筑类型，不应延伸至其他类似建筑。<br />
+&nbsp; &nbsp;&nbsp;<a href="https://gf.1190119.com/article-36493.htm">《广州》2.5.10</a>、《广东》2.5.19.18：列举内容（图书馆的大空间阅览室和高校实验楼的大空间型实验室）属于多功能厅，可参照&ldquo;其室内任一点至最近疏散门或安全出口的直线距离不应大于30m&rdquo;执行。<br />
+<br />
+<strong>★问题9：<a href="https://gf.1190119.com/article-27268.htm">《建规》第 8.3.1.2</a>&ldquo;占地面积大于1500㎡或总建筑面积大于3000㎡的单、多层制鞋、制衣、玩具及电子等类似生产的厂房&rdquo;，该条款中&ldquo;等类似生产的厂房&rdquo;需进一步明确。</strong><br />
+&nbsp; &nbsp; 提出本问题的原因：&ldquo;等&rdquo;字的解读<br />
+&nbsp; &nbsp;&nbsp;<a href="https://gf.1190119.com/article-37091.htm">《江苏》1.1.23</a>：规范要求设置自动喷水灭火系统的生产厂房或场所，可参照《指南》P391页表F8.7。
+<div style="text-align: center;">
+	<img alt="表F8.7" src="/Web/uploads/allimg/210201/10-210201134123a3.png" /></div>
+<br />
+<strong>问题10：设置喷淋后，距离仍然不能扩大的情况？</strong><br />
+&nbsp; &nbsp; 提出本问题的原因：<br />
+&nbsp; &nbsp; 《指南》P249：规范规定的<u>所有涉及设置条件的数值</u>，如无明确规定，均不能根据规范有关调整要求进行改变。因此，一座全部设置自动灭火系统的建筑中位于疏散走道尽端，只设置个疏散门的房间，其房间内任一点至疏散门的直线距离仍不应大于15m，且建筑面积不应大于200㎡，疏散门的净宽度不应小于1.40m。<br />
+<br />
+<strong>问题11：工业建筑以工艺优先，如果突破了现行规范，应进行专家论证。</strong><br />
+&nbsp; &nbsp; 提出本问题的原因：<br />
+&nbsp; &nbsp; 《指南》P67：表3.3.1中无明确要求的栏目，<u>表示正常情况下是不允许的</u>。例如，正常情况下不允许建造甲类高层厂房，无论其耐火等级有多高；不允许建造四级耐火等级的多层和三、四级耐火等级的髙层丁、戊类厂房，无论其建筑面积有多大。对于因生产工艺需要，非高层建筑不能满足生产要求而需要建造高层甲类厂房时，则<u>应按照国家有关法规的规定经论证后确定。</u>
+
+<input type="hidden" name="settid" id="settid" value="0" />      
+</div>
+
+<div class="addon-line" id="adDiv">
+	<span onclick="displaySearch();" title="本节内容查找"><i class="iconfont icon-sousuo"></i>查找</span>
+	<span onclick="window.open('article-37106.htm','_self');"><i class="iconfont icon-jiantou_shangyiye_o" style="font-weight: bold;"></i>上节</span>
+	<span onclick="window.open('article-37108.htm','_self');"><i class="iconfont icon-jiantou_xiayiye_o" style="font-weight: bold;"></i>下节</span>
+	<!--span id="t1" onclick="loadcmn('c');"><i class="iconfont icon-shoucang"></i>收藏</span-->
+	<!--span id="t2" onclick="loadcmn('m');"><i class="iconfont icon-shuqian1"></i>书签</span-->
+	<!--span id="t3" onclick="loadcmn('n');"><i class="iconfont icon-chuangzuo"></i>笔记</span>
+	<span id="t4" style="display:none;"><i class="iconfont icon-xiaoxi"></i>评论</span-->
+   
+   <span id="gotop" class="lastitem"><i class="iconfont icon-fanhuidingbu"></i><b id="twz">返回<br>顶部</b></span>
+</div>
+	
+<script>
+	function twclick() {
+	$("html, body").animate({ scrollTop: $(".twsm").offset().top - 10 + "px" }, 100);
+	return false;//不要这句会有点卡顿
+	   
+	}
+	$(function() {
+		$(window).scroll(function(){
+			if($(window).scrollTop()>500){
+				$("#gotop").css("display","block");
+			}else{
+				$("#gotop").hide();
+			}
+		});
+		$("#gotop").click(function(){
+			$("body,html").animate({scrollTop:0},100);
+			return false;
+		});
+	});
+		 
+ 
+	function setsearch_norm() {
+		var divObj = document.getElementById('adDiv');
+		console.log($(document).width());
+		var _right = ($(document).width() - 1000) / 2 - 60;
+		console.log(_right);
+		if (_right > 0) {
+			divObj.style.display = "block";
+			divObj.style.right = _right + "px";
+		} else {
+			divObj.style.right = "0px";
+			//divObj.style.display = "none";
+		}
+	}
+	setsearch_norm();
+</script>
+
+
+                    <div class="context">
+                        <ul>
+                            <li>上一节：<a  href='article-37106.htm'>前言</a> </li>
+                            <li>下一节：<a  href='article-37108.htm'>二 建筑定性</a> </li>
+                        </ul>
+                    </div>   
+
+					<p style="margin-top: 30px; text-align: center;">
+						<a  href="list-1304.htm"><img src="/style/images/back.png" border="0" style="padding-right: 20px;"/></a> 
+						 
+						 
+					</p>
+
+				 
+                 
+                  
+                      
+					<p style="text-align:left; margin-top:40px; font-size:14px; line-height:20px;">
+					   <!--本内容由中国建筑科学研究院建筑防火研究所(<a href="/">www.cabr-fire.com</a>)提供。-->
+					</p>
+					
+                </div>
+                
+				<!---->
+				 
+			</div>
+		</div>
+	
+        <div class="right" style="float:left;width: 246px;">
+            <div class="rcontent" style="width: 246px;">
+                <div class="rtitle">
+					<h3 class="on">目录导航</h3>
+					<!--h3 onclick="LoadMyNote();">我的笔记</h3-->
+                     
+                </div>
+
+                <div class="rul" style="padding: 10px 8px 0 13px;">
+                    <form action="javascript:;" method="get" name="form2" style="display:flex;" onsubmit="SearchAllwords();">
+                        <input type="hidden" name="typeid" value="1304" />
+                        <input type="text" name="allwords" id="allwords" placeholder="多关键字分隔：“空格”与，“\”或" style="width:165px; height:30px; box-sizing:border-box;border:1px solid #ddd;  line-height:30px;  vertical-align: top;" autocomplete="off" disableautocomplete="disableautocomplete" onfocus="document.getElementById('bbox').style.display='block';" onblur="document.getElementById('bbox').style.display='none';"/>
+                        <input type="button" onclick="SearchAllwords();" value='检 索' style="width:60px;-webkit-appearance: none;margin-left:3px; height:30px;border:none;outline:none" />
+                    </form>
+                    <div class="yellow2" id="bbox" style="display:none; position:absolute; margin-left:0px; margin-top:0px; padding-left:10px;">
+                        可同时查询多个内容，分隔符：空格为“与”，“\”为或。
+                     </div>
+                </div>
+
+                <div class="rul">
+                    <ul class="show">
+                        
+                        <!--li style="width:215px;"><a href='article-.htm' title='建筑防火-地方标准·答疑汇编（600问）！' style="color:#ff0000"><strong>强制性条文汇编！</strong></a></li-->
+                        
+
+                        
+                        <li style="width:215px;"  ><a href='article-37106.htm' title='前言' >前言</a></li>
+                        
+                        <li style="width:215px;"  class='active' ><a href='article-37107.htm' title='一 防火通则' >一 防火通则</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37108.htm' title='二 建筑定性' >二 建筑定性</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37109.htm' title='2.1 术语' >2.1 术语</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37110.htm' title='2.2 建筑高度' >2.2 建筑高度</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37111.htm' title='2.3 火灾危险性' >2.3 火灾危险性</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37112.htm' title='2.4 耐火极限' >2.4 耐火极限</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37113.htm' title='2.5 建筑分类' >2.5 建筑分类</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37114.htm' title='2.6 台阶式地坪' >2.6 台阶式地坪</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37115.htm' title='三 总平面图' >三 总平面图</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37116.htm' title='3.1 防火间距' >3.1 防火间距</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37117.htm' title='3.2 消防车道' >3.2 消防车道</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37118.htm' title='3.3 救援场地' >3.3 救援场地</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37119.htm' title='3.4 救援窗' >3.4 救援窗</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37120.htm' title='四 单体设计' >四 单体设计</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37121.htm' title='4.1 防火分区和层数' >4.1 防火分区和层数</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37122.htm' title='4.2 平面布置' >4.2 平面布置</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37123.htm' title='4.3 安全疏散' >4.3 安全疏散</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37124.htm' title='4.4 疏散楼梯' >4.4 疏散楼梯</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37125.htm' title='4.5 消防电梯' >4.5 消防电梯</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37126.htm' title='4.6 直升机停机坪' >4.6 直升机停机坪</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37127.htm' title='五 细部构造' >五 细部构造</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37128.htm' title='5.1 防火墙' >5.1 防火墙</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37129.htm' title='5.2 防火分隔' >5.2 防火分隔</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37130.htm' title='5.3 屋顶和闷顶' >5.3 屋顶和闷顶</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37131.htm' title='5.4 天桥、连廊' >5.4 天桥、连廊</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37132.htm' title='5.5 疏散门和防火门、窗' >5.5 疏散门和防火门、窗</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37133.htm' title='5.6 幕墙、防火玻璃墙' >5.6 幕墙、防火玻璃墙</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37134.htm' title='5.7 防火卷帘' >5.7 防火卷帘</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37135.htm' title='5.8 建筑竖井、管线防火、建筑缝隙和防火封堵' >5.8 建筑竖井、管线防火、建筑缝隙和防火封堵</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37136.htm' title='5.9 建筑保温' >5.9 建筑保温</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37137.htm' title='5.10 建筑装饰' >5.10 建筑装饰</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37138.htm' title='六 特殊建筑和场所' >六 特殊建筑和场所</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37139.htm' title='6.1 特殊场所' >6.1 特殊场所</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37140.htm' title='6.2 ★歌舞娱乐放映游艺场所' >6.2 ★歌舞娱乐放映游艺场所</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37141.htm' title='6.3 商业建筑' >6.3 商业建筑</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37142.htm' title='6.4 超过250米的超高层' >6.4 超过250米的超高层</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37143.htm' title='6.5 “老、幼、病”建筑' >6.5 “老、幼、病”建筑</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37144.htm' title='6.6 观演建筑、体育建筑' >6.6 观演建筑、体育建筑</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37145.htm' title='6.7 住宅建筑' >6.7 住宅建筑</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37146.htm' title='6.8 汽车库、停车场' >6.8 汽车库、停车场</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37147.htm' title='6.9 设备机房' >6.9 设备机房</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37148.htm' title='参考国标列表' >参考国标列表</a></li>
+                        
+                        <li style="width:215px;"  ><a href='article-37149.htm' title='引用地标列表' >引用地标列表</a></li>
+                        
+                    </ul>
+					<ul class="addon_list" id="notelist">
+                        <span class="empty_notice" style="display: block;text-align: center;">笔记需登录后才能查看哦~</span><div style="text-align:center;margin-top:6px;"><a href="javascript:;" onclick="toLogin();" style="background-color: #ff7d0a;color: #ffffff;font-size: 14px;display: inline-block;height: 25px;border: 1px solid #ff7d0a;border-radius: 4px;line-height: 25px;padding: 0 10px;">去登录</a></div>
+                    </ul>
+                </div> 
+            </div>
+            <div class="block"></div>
+        </div>
+		<script>
+			$('.rtitle>h3').click(function () {
+				$(this).addClass("on").siblings().removeClass("on")
+				 
+				$(".rul").find("ul:eq("+$(this).index()+")").addClass("show")
+				$(".rul").find("ul:eq("+$(this).index()+")").siblings().removeClass("show")
+			})
+		</script>
+	
+    <div class="block"></div>
+	</div>
+    <div class="clear"></div>
+	
+    <div class="footer">
+        <div style="width:100%; height:30px; margin:auto;"></div>
+        <div style=" ">
+            <div style=" ">
+                <div class="xian">Copyright &copy; 2023 中国建筑科学研究院建筑防火研究所 版权所有 <a rel="nofollow" href="https://beian.miit.gov.cn/" >京ICP备10045562号-28</a> <a target="_blank" href="http://www.beian.gov.cn/" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="https://www.beian.gov.cn/img/ghs.png" style="float:left;"/>京公网安备110105014475</a> 
+				 
+				</div>
+            </div>
+        </div>
+    </div>
+
+  
+
+   
+
+<!---公共背景-->
+	<div class="backgroundfix" onclick="$('.modal-pub,.backgroundfix').hide();"></div>	
+ 
+ 
+ <script>
+ 
+ 
+	   
+$("body").on("click",".b_con img",function(e){
+    layer.photos({
+        photos: { "data": [{"src": e.target.src}] }
+    });
+});
+
+     var kw = '';
+     var url = window.location.href;
+     if (url.indexOf('?') > -1) {
+         kw = url.split('?')[1].split("=")[1];
+     }
+
+     if (kw != '') {
+         searchKW(kw);
+     }
+
+     function searchKW(kw) {
+         var count = 0;
+         if (kw != '') {
+             kw = kw.replace("%5C", "%5c");
+             kw = kw.replace("%5c%5c", "%5c");
+             kw = kw.replace("  ", " ");
+
+             kw = kw.replace("\\", "+");
+             kw = kw.replace("%5c", "+");
+             kw = kw.replace(" ", "+");
+
+             kw = kw.replace("%2f", "/");
+             kw = decodeURI(kw);
+
+             kw = kw.replace("%E3%80%80", "+");
+             var html = document.getElementById("b_con").innerHTML;
+
+             if (kw.indexOf("+") == -1) {
+                 var regex = new RegExp(kw, 'g');
+                 var result = html.match(regex);
+                 count = !result ? 0 : result.length;
+
+                 //var val = html.replace(regex, "<span color='black'  style='background-color:#FF5151'>" + kw + "</span>");
+                 var val = html.replace(regex, "<span class=bgr>" + kw + "</span>");
+                 document.getElementById('b_con').innerHTML = val;
+
+                 $('#keywords_info').html("关键字：<font color='red'><b>" + kw + " " + count + "</b></font>个。")
+             } else {
+                 var kw_array = [];
+                 var keywords_info = '关键字：';
+
+                 if (kw.indexOf("+") > -1) {
+                     kw_array = kw.split("+");
+                 }
+
+                 if (kw_array.length > 0) {
+                     for (var i = 0; i < kw_array.length; i++) {
+                         if (kw_array[i].trim() != "") {
+                             var regex = new RegExp(kw_array[i].trim(), 'g');
+                             var result = html.match(regex);
+                             count = !result ? 0 : result.length;
+
+                             //html = html.replace(regex, "<span color='black'  style='background-color:#FF5151'>" + kw_array[i].trim() + "</span>");
+                             html = html.replace(regex, "<span class=bgr>" + kw_array[i].trim() + "</span>");
+                             keywords_info = keywords_info + "<font color='red'><b>" + kw_array[i].trim() + " " + count + "</b></font>个。";
+                         }
+                     }
+                 }
+
+                 $('#keywords_info').html(keywords_info);
+                 document.getElementById('b_con').innerHTML = html;
+             }
+
+         }
+         return count;
+     }
+
+
+    function searchContent() {
+        var searchText = $('#search').val();
+        if (searchText.length == 0 || searchText.trim()=="") {
+            return false;
+        } else {
+            var count = searchKW(searchText);
+            alert('搜索完成,共' + count + '个结果!');
+        }
+    }
+
+    function displaySearch() {
+        var sp = document.getElementById("search_page");
+        if (sp.style.display == "none") {
+            sp.style.display = "block";
+        } else {
+            sp.style.display = "none";
+        }
+		$("html, body").animate({ scrollTop: $("#search_page").offset().top - 10 + "px" }, 1000);
+        return false;//不要这句会有点卡顿
+
+    }
+</script>
+<div class="popBox"><div class="bTitle">建筑防火-地方标准·答疑汇编（600问）！</div><div id="qrcode"></div><div style="line-height: 45px; text-align:center"><span>微信、QQ、手机浏览器等软件扫一扫 即可阅读  </span></div></div>
+ 
+
+ <!--cabr-fire 统计-->
+ <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?aa7fb8e61d16ba9b7b1a0723aff4f07b";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    	<!--登录弹出-->
+<div class="madol" id="Login-pop">
+    <div id="content">
+    </div>
+    <p class="user-close"><a href="javascript:;" onclick="document.getElementById('Login-pop').style.display='none';">关闭</a></p>
+</div>
+<script>
+    function PP_logout() {
+        PP_delCookie("userid");
+        PP_delCookie("username");
+        PP_delCookie("pwd");
+
+        layer.msg('退出成功!', { icon: 1 });
+        setTimeout(function () {
+            location.reload();
+        }, 1000)
+    }
+
+    if (PP_getCookie("username") != null) {
+        //$.get("/member/msg_new/?id=" + PP_getCookie("userid"), function (new_msg) {
+        //    if (new_msg.trim() == "1") {
+        //        document.getElementById('userlogin').innerHTML = "当前用户：" + PP_getCookie("username") + "<span class='new_msg'></span>&nbsp;&nbsp;  <a href='javascript:;' onclick='PP_logout();'>退出</a>&nbsp;&nbsp;  ";
+        //    } else {
+                document.getElementById('userlogin').innerHTML = "当前用户：" + PP_getCookie("username") + "&nbsp;&nbsp;  <a href='javascript:;' onclick='PP_logout();'>退出</a>&nbsp;&nbsp;  ";
+        //    }
+        //});
+    } else {
+        var url = encodeURI(window.location.href);
+        $('#userlogin').html("<a href='javascript:;' class='toLogin'>登录</a>&nbsp;&nbsp; ");
+    }
+
+    $(".toLogin").click(function (event) {
+        if (PP_getCookie("userid") != null) {
+            //登录状态
+        } else {
+            //未登录状态
+            event.preventDefault();
+            $("#Login-pop").css("display", "block");
+            $("#content").load("/public/login.html");
+        }
+    })
+</script>
+
+</body>
+</html>
